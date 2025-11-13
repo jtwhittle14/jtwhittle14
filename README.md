@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Jason and I'm currently learning all about GitHub
 <!--
 **jtwhittle14/jtwhittle14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
